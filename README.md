@@ -1,2 +1,2 @@
 # CS231N
-My own code for solving CS231N. Not all solutions are completely mine. 
+My own code for solving CS231N. Not all solutions are mine. 
